@@ -1,4 +1,4 @@
-# Three-Dimensional-TSP
+# Three Dimensional TSP
 
   A visualization for a three-dimensional TSP is shown.  Using PlotlyJS.jl an interactive graph is created to further check that an optimal path has satisfied constraints.  
 
