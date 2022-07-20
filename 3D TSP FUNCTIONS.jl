@@ -1,7 +1,6 @@
 using Pkg
-Pkg.add("LinearAlgebra")
-
-using LinearAlgebra, Plots
+Pkg.add("PlotlyJS")
+using PlotlyJS Plots
 plotlyjs()
 
 a=rand(1:100,30)
